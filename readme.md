@@ -6,7 +6,7 @@ Linux:
 
 ```
 git clone https://github.com/MatheusSiqueiraDev/start-automatically-linux-script.git
-cd start-automatically-linux-script
+cd tosleep-start-automatically-linux-script
 sudo chmod +x tosleep.sh
 sudo cp tosleep.sh /usr/local/bin/tosleep
 ```
